@@ -1,4 +1,4 @@
-name =int("What is your name?")
+name =int(input("What is your name?"))
 myn = "Mujtaba"
 if name == myn 
 print ("You are cool!")

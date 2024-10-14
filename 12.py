@@ -1,2 +1,2 @@
-int =int("Input a sentance")
+int =int(input("Input a sentance"))
 print(int.upper())
