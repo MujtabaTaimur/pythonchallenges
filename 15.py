@@ -1,2 +1,2 @@
 int =int("Input a sentance")
-print(int.upper())
+print(int.lower())
